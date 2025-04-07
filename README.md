@@ -4,4 +4,4 @@ Este repositório contém atividades e projetos desenvolvidos na disciplina de *
 
 ## Tecnologias Utilizadas
 - **Linguagem**: Python
-- **Bibliotecas**: OpenCV, NumPy, Matplotlib
+- **Bibliotecas principais**: OpenCV, NumPy, Matplotlib
